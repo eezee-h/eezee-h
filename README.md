@@ -13,7 +13,7 @@
 
 ## Achievements
 
-🏆 SteelChallenge-18 Regional Champion (Asia East and Oceania - Student)
+🏆 steelChallenge-18 Regional Champion (Asia East and Oceania - Student)
 
 ---
 
