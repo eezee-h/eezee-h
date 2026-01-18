@@ -47,7 +47,7 @@
 ---
 
 <!-- GitHub Stats (선택사항) -->
-https://www.snmnews.com/news/photo/202401/528780_325711_2314.jpg
+![](https://www.snmnews.com/news/photo/202401/528780_325711_2314.jpg)
 <div align="center">
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
