@@ -7,7 +7,7 @@
 🎓 B.S. in Materials Science and Engineering  
 🎓 1st Year Master's Student in Materials Science and Engineering  
 💻 Exploring AI/ML Development  
-⚙️ Exploring Computational Materials Science
+💻 Exploring Computational Materials Science
 
 ---
 
